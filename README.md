@@ -1,5 +1,5 @@
 # Perform WorkManager at specific time.
-Perform work manager backgroung task at specific time every 24 hour or every day.
+Perform work manager background task at specific time every 24 hour or every day.
 
 ### Note:-
 This will not work after the device restart or shutdown it will not run backgound 
